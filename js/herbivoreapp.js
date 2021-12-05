@@ -1,0 +1,1 @@
+var herbivoreapp = angular.module('herbivore', []);
